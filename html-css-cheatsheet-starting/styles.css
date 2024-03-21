@@ -1,0 +1,41 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-display: center;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h2{
+    font-family: monospace;
+    color: pink;
+    text-align: center;
+    background-color: aqua;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+table{
+    display:block;
+    margin: 30px 200px;
+    padding: 2px;
+    border: 1px;
+    border-color: black;
+}
+thead{
+    background-color: blue;
+    color: yellow;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+td{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-style: italic;
+}
+body{
+    background-color: bisque;
+    margin: 10px;
+}
